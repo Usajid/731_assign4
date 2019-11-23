@@ -5,27 +5,25 @@ Major Leagues (Assignment # 04- EECS 731)
 
 Author: Usman Sajid
 
-Project Organization
-------------
 
-    ├── LICENSE
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
 
---------
+### Before Getting Started
+If you are interested in only looking at notebook, pleae access the notebook in **/notebooks/majorLeague.ipynb**.
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+/notebooks: Contains the notebook of this assignment.
+/data: Contains the data csv file (nfl_games.csv)
 
-### Before Getting Stated
-Hello
+### Objective
+
+<ul>
+<li>Pick one dataset from given various leagues like NFL, MLB, NBA and Soccer</li>
+<li>Do feature engineering as a pre-proces for regression modeling</li>
+<li>Do regressionbased modeling to determine scores of each team</li>
+</ul>
+
+### Dataset
+
+I used the NFL dataset for this regression mdoeling assignment. (Data csv file is in /data/nfl_games.csv)
+
+
+
