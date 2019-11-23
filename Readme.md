@@ -74,7 +74,7 @@ MSE: 82.39727180323428
 
 Multi Target Output Linear Regressor Score: 0.326
 
-After training and evaluating three regression models (Random Forest, XGBoost, Linear Regressor), in MultiouputRegressor mode, we found that Random Forest based approach performs the best on all three evaluation metrics (**Mean Absolute Error (MAE):4.54832675696375, Mean Squared Error:36.48255827784976, Regression Score:0.701**). Feature Engineering, including combining and removing different features, also played an important role in improving the overall effectiveness of the system.
+After training and evaluating three regression models (Random Forest, XGBoost, Linear Regressor), in MultiouputRegressor mode, we found that Random Forest based approach performs the best on all three evaluation metrics (**Mean Absolute Error (MAE):4.54832675696375, Mean Squared Error:36.48255827784976, Regression Score:0.701**). Feature Engineering, including combining and removing different features, also played an important role in improving the overall effectiveness of the system. Please see /notebooks/majorLeague.ipynb for more details.
 
 
 
