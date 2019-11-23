@@ -4,7 +4,7 @@ Major Leagues (Assignment # 04- EECS 731)
 
 
 ### Before Getting Started:
-If you are interested in only looking at notebook, pleae access the notebook in **/notebooks/majorLeague.ipynb**.
+If you are interested in only looking at notebook, please access the notebook in **/notebooks/majorLeague.ipynb**.
 
 /notebooks: Contains the notebook of this assignment.
 
