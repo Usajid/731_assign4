@@ -40,12 +40,12 @@ Since we have to regress scores for both teams (multi-output regression), so I u
 <li>Linear Regessor</li>
 </ul>
 
-Once above regressors were trained, we evaluted them separately on three evluation metrics,as follows:
+Once above regressors were trained, we evaluted them separately on three evaluation metrics,as follows:
 
 <ul>
 <li>Mean Absolute Error (MAE)</li>
 <li>Mean Squared Error (very good in telling about the variance in result values, so more desirable metric)</li>
-<li>Scikit Regression Score (Maximum value = 1.0f) </li>
+<li>Scikit-learn Regression Score (Maximum value = 1.0) </li>
 </ul>
 
 The evaluation results for three regressors are as follows:
