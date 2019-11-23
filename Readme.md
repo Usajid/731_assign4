@@ -55,18 +55,27 @@ Once above regressors were trained, we evaluted them separately on three evluati
 The evaluation results for three regressors are as follows:
 
 **Random Forest Regressor:**
+
 MAE: 4.54832675696375
+
 MSE: 36.48255827784976
+
 Multi Target Output Random Forest Based Regressor Score: 0.701
 
 **XGBoost Regressor:**
+
 MAE: 6.956283390349816
+
 MSE: 77.05458382962796
+
 Multi Target Output XGBoost based Regressor Score: 0.37
 
 **Linear Regressor:**
+
 MAE: 7.233133556966823
+
 MSE: 82.39727180323428
+
 Multi Target Output Linear Regressor Score: 0.326
 
 After training and evaluating three regression models (Random Forest, XGBoost, Linear Regressor), in MultiouputRegressor mode, we found that Random Forest based approach performs the best on all three evaluation metrics (**Mean Absolute Error (MAE):4.54832675696375, Mean Squared Error:36.48255827784976, Regression Score:0.701**). Feature Engineering, including combining and removing different features, also played an important role in improving the overall effectiveness of the system.
