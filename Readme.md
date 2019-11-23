@@ -26,9 +26,9 @@ I used the NFL dataset for this regression modeling assignment. (Data csv file i
 
 <ul>
 <li>First I did feature engineering. Main feature engineering includes combining/addition of features, and removing redundant/irrelevant features. Please refer to notebook for more details.</li>
-<li>Divided the dataet into training/testing split of 80/20 percentage.</li>
+<li>Divided the dataset into training/testing split of 80/20 percentage.</li>
 <li>Trained three regression models separately on the training dataset.</li>
-<li>Finally, evaluated above trained models on testing dataset under three evaluation metrics</li>
+<li>Finally, evaluated above trained models on testing dataset under three evaluation metrics.</li>
 </ul>
 
 ### Discussion and Results:
