@@ -52,11 +52,11 @@ The evaluation results for three regressors are as follows:
 
 **Random Forest Regressor:**
 
-MAE: 4.54832675696375
+MAE: **4.54832675696375**
 
-MSE: 36.48255827784976
+MSE: **36.48255827784976**
 
-Multi Target Output Random Forest Based Regressor Score: 0.701
+Multi Target Output Random Forest Based Regressor Score: **0.701**
 
 **XGBoost Regressor:**
 
