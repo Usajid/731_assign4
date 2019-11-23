@@ -14,7 +14,7 @@ If you are interested in only looking at notebook, please access the notebook in
 
 <ul>
 <li>Pick one dataset from given various leagues like NFL, MLB, NBA and Soccer</li>
-<li>Do feature engineering as a pre-proces for regression modeling</li>
+<li>Do feature engineering as a pre-process for regression modeling</li>
 <li>Do regression based modeling to determine scores of each team</li>
 </ul>
 
