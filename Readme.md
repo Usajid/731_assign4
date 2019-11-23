@@ -11,6 +11,7 @@ Author: Usman Sajid
 If you are interested in only looking at notebook, pleae access the notebook in **/notebooks/majorLeague.ipynb**.
 
 /notebooks: Contains the notebook of this assignment.
+
 /data: Contains the data csv file (nfl_games.csv)
 
 ### Objective
