@@ -20,7 +20,7 @@ If you are interested in only looking at notebook, please access the notebook in
 
 ### Dataset:
 
-I used the NFL dataset for this regression mdoeling assignment. (Data csv file is in /data/nfl_games.csv)
+I used the NFL dataset for this regression modeling assignment. (Data csv file is in /data/nfl_games.csv)
 
 ### Process:
 
