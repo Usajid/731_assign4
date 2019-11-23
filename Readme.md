@@ -3,10 +3,6 @@ Major Leagues (Assignment # 04- EECS 731)
 ==============================
 
 
-Author: Usman Sajid
-
-
-
 ### Before Getting Started:
 If you are interested in only looking at notebook, pleae access the notebook in **/notebooks/majorLeague.ipynb**.
 
